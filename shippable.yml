@@ -1,5 +1,5 @@
 language: java
-build_image: drydock/u14javpls:tip
+build_image: drydock/u14javall:tip
 
 jdk:
    - oraclejdk7
