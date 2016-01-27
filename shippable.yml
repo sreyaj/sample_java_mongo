@@ -2,7 +2,7 @@ language: java
 build_image: drydock/u14javpls:tip
 
 jdk:
-   - oraclejdk7
+   - oraclejdk7  
    - openjdk6
    - openjdk7
 services:
